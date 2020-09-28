@@ -1,6 +1,6 @@
 package Iniciante;
-// Grenais
 
+// URL: https://www.urionlinejudge.com.br/judge/pt/problems/view/1131
 import java.util.Scanner;
 
 public class Uri1131 {

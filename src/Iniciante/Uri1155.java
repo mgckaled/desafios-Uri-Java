@@ -1,9 +1,6 @@
 package Iniciante;
 
-// Sequência S
-// Escreva um algoritmo para calcular e escrever o valor de S, sendo S dado pela fórmula:
-// S = 1 + 1/2 + 1/3 + … + 1/100
-
+// URL: https://www.urionlinejudge.com.br/judge/pt/problems/view/1155
 public class Uri1155 {
     public static void main(String[] args) {
 

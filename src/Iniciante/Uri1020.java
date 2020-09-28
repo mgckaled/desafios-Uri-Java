@@ -1,6 +1,6 @@
 package Iniciante;
-// Calcular idade em dias.
 
+// URL: https://www.urionlinejudge.com.br/judge/pt/problems/view/1020
 import java.util.Scanner;
 
 public class Uri1020 {

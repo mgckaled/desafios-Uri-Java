@@ -1,5 +1,6 @@
 package Iniciante;
 
+// URL: https://www.urionlinejudge.com.br/judge/pt/problems/view/1002
 import java.util.Locale;
 import java.util.Scanner;
 

@@ -1,9 +1,9 @@
 package Iniciante;
 
+// URL: https://www.urionlinejudge.com.br/judge/pt/problems/view/1009
 import java.util.Locale;
 import java.util.Scanner;
 
-  // Salário com Bônus
 
 public class Uri1009 {
     public static void main(String[] args) {
